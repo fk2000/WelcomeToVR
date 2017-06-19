@@ -1,0 +1,18 @@
+{
+  "name": "welcomtovr",
+  "description": "VR Hello World",
+  "website": "https://github.com:elevennines/WelcomeToVR",
+  "repository": "https://github.com:elevennines/WelcomeToVR",
+  "logo": "https://github.com/niiyz/KojoMapTool/blob/master/public/images/logo.png",
+  "success_url": "/",
+  "keywords": [
+    "WelcomeToVR",
+    "VR",
+    "Hello",
+    "World",
+    "elevennines-inc"
+  ],
+  "addons": [
+    "react-native"
+  ]
+}
