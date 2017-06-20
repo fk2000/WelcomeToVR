@@ -1,8 +1,8 @@
 {
   "name": "welcomtovr",
   "description": "VR Hello World",
-  "website": "https://github.com:elevennines/WelcomeToVR",
-  "repository": "https://github.com:elevennines/WelcomeToVR",
+  "website": "https://github.com/fk2000/WelcomeToVR",
+  "repository": "https://github.com/fk2000/WelcomeToVR",
   "logo": "https://github.com/niiyz/KojoMapTool/blob/master/public/images/logo.png",
   "success_url": "/",
   "keywords": [
