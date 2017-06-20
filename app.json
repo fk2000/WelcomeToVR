@@ -11,8 +11,5 @@
     "Hello",
     "World",
     "elevennines-inc"
-  ],
-  "addons": [
-    "react-native"
   ]
 }
