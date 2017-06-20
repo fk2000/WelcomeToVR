@@ -9,6 +9,9 @@
     "devtools": "react-devtools",
     "test": "jest"
   },
+  "scripts": {
+    "build": "react-vr init WelcomeToVR"
+  },
   "dependencies": {
     "ovrui": "~1.2.0",
     "react": "~15.4.1",
